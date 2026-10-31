@@ -10,6 +10,8 @@ On the effects side, nodes are designed for granular control rather than one-kno
 
 The same philosophy carries through to transforms, masks, latent utilities, and scheduling: sensible defaults, full range of options, no black boxes.
 
+Support me : https://buymeacoffee.com/writili
+
 ---
 
 ## Installation
